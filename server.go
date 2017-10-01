@@ -3,7 +3,8 @@
 // license that can be found in the LICENSE file.
 
 // +build ignore
-
+//change code that can read user input and reply different msg; save user basic info to a struct
+// 
 package main
 
 import (
